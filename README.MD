@@ -112,6 +112,11 @@ int main()
 }
 ```
 
+## Result
+![](https://cdn.rawgit.com/sajjad-shirazy/Pei/f59c8199/Screenshots/Screenshot%20(4).png)
+![](https://cdn.rawgit.com/sajjad-shirazy/Pei/f59c8199/Screenshots/Screenshot%20(6).png)
+![](https://cdn.rawgit.com/sajjad-shirazy/Pei/f59c8199/Screenshots/Screenshot%20(7).png)
+
 ## Classes
 ### Utility
 - Pei::Utility::SPArchive
