@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pei", "Pei.vcproj", "{53930180-D79C-4452-9548-985AD9A99B4C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pei.exe", "Pei.exe.vcproj", "{5D4F6D5E-3EAC-410C-827E-95E61A1EAEF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53930180-D79C-4452-9548-985AD9A99B4C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{53930180-D79C-4452-9548-985AD9A99B4C}.Debug|Win32.Build.0 = Debug|Win32
+		{53930180-D79C-4452-9548-985AD9A99B4C}.Release|Win32.ActiveCfg = Release|Win32
+		{53930180-D79C-4452-9548-985AD9A99B4C}.Release|Win32.Build.0 = Release|Win32
+		{5D4F6D5E-3EAC-410C-827E-95E61A1EAEF7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5D4F6D5E-3EAC-410C-827E-95E61A1EAEF7}.Debug|Win32.Build.0 = Debug|Win32
+		{5D4F6D5E-3EAC-410C-827E-95E61A1EAEF7}.Release|Win32.ActiveCfg = Release|Win32
+		{5D4F6D5E-3EAC-410C-827E-95E61A1EAEF7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

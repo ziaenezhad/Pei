@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Pei::Utility::SPArchive">
+    <Position X="10.75" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Pei::Utility::SPArchive::IOType">
+        <TypeIdentifier>
+          <NewMemberFileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Utility\SPArchive.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAIAAgAACAAAAAAAAAAAEBAERAACgIAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Utility\SPArchive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pei::Utility::SPErrorHandler">
+    <Position X="17.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAIAAIAAIAAACAAACACAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Utility\SPErrorHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pei::Utility::SPLoopManager">
+    <Position X="12.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEgAQAAAAAAAwAQAACAAAAAAAAAAhAAgAhCAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Utility\SPLoopManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pei::Utility::SPSerializable">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAACAAAACAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Utility\SPSerializable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pei::Utility::SPTimer">
+    <Position X="19.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAggAAgIiAABAAAAAAACAAAAAAgAgAAIAAAAAAAAQA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Utility\SPTimer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pei::Utility::SPWindow">
+    <Position X="12.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AMAAAAQUAGgAggIAAAEIIAAAAAAFAiBAQAiACACIIAQ=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Utility\SPWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pei::Graphic::SPCamera">
+    <Position X="17.25" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Pei::Graphic::SPCamera::ProjectionTypes">
+        <TypeIdentifier>
+          <NewMemberFileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Graphic\SPCamera.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgBAAQAQECCAAA0QQKAAIAAJYAAAIgAAAABBQoBAgCA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Graphic\SPCamera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pei::Graphic::SPMesh">
+    <Position X="24.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAiAAEAAAAAICAAABAAAAgAEAgAAADAAIAgAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Graphic\SPMesh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pei::Graphic::SPRenderer">
+    <Position X="27" Y="5.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Pei::Graphic::SPRenderer::FillMode">
+        <TypeIdentifier>
+          <NewMemberFileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Graphic\SPRenderer.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAoAkAAkAIBEAAA4iCJAAAACMQYAIAhMAAABAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Graphic\SPRenderer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pei::Graphic::SPTexture">
+    <Position X="22.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAgAAEAAAAQAUAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Graphic\SPTexture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pei::SPResource">
+    <Position X="24.75" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Pei::SPResource::Types">
+        <TypeIdentifier>
+          <NewMemberFileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\SPResource.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAAAAAgAAEAAACAAAAAAAAAAAAAFAAAAAABAAAIAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\SPResource.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pei::SPResourceManager">
+    <Position X="14.75" Y="10" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAGAAABACCAAAAAAAAAAAAAAACAAAAgAAQAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\SPResource.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Pei::Utility::SPColor">
+    <Position X="3.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABgAAQAAAIAAAAAAAACAAAAEBKAEAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Utility\SPColor.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Pei::Utility::SPRect">
+    <Position X="8.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQAQIAAIEBAAAAAAAAAAAAAAEIAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Utility\SPRect.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Pei::Graphic::SPVertex_PNDT">
+    <Position X="12.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAAQBJgAQAAABA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Graphic\SPMesh.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Pei::Graphic::SPVertex_PD">
+    <Position X="10.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAABgAQAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Graphic\SPMesh.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Pei::Graphic::SPMaterial">
+    <Position X="19.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Graphic\SPRenderingParameters.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Pei::Graphic::SPRenderingParameters">
+    <Position X="0.5" Y="2.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Pei::Graphic::SPRenderingParameters::BlendingMode">
+        <TypeIdentifier>
+          <NewMemberFileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Graphic\SPRenderingParameters.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAABAAAAAAAGAIwQCAAAAIAAAAICACCBAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Graphic\SPRenderingParameters.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Pei::Graphic::SPVector3">
+    <Position X="5.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAABAAAAAAAIQAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Graphic\SPVector3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Pei::Input::SPKeyboard">
+    <Position X="10.75" Y="6.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Pei::Input::SPKeyboard::Keys" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Input\SPKeyboard.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="Pei::Input::SPKeyboard::OnKeyDown">
+        <TypeIdentifier>
+          <NewMemberFileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Input\SPKeyboard.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Pei::Input::SPKeyboard::OnKeyUp">
+        <TypeIdentifier>
+          <NewMemberFileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Input\SPKeyboard.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAQAAIACgAAAAQAAgAAAAgAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Input\SPKeyboard.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Pei::Input::SPMouse">
+    <Position X="14.75" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Pei::Input::SPMouse::Buttons">
+        <TypeIdentifier>
+          <NewMemberFileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Input\SPMouse.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="Pei::Input::SPMouse::MouseState">
+        <TypeIdentifier>
+          <NewMemberFileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Input\SPMouse.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="Pei::Input::SPMouse::OnMouseMove">
+        <TypeIdentifier>
+          <NewMemberFileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Input\SPMouse.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Pei::Input::SPMouse::OnMouseDown">
+        <TypeIdentifier>
+          <NewMemberFileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Input\SPMouse.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Pei::Input::SPMouse::OnMouseUp">
+        <TypeIdentifier>
+          <NewMemberFileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Input\SPMouse.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAYAAACCAAAAAAEAAAAAEAAAACAgAAAIAAAAQAAAABA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Input\SPMouse.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="Pei::Utility::SPSlotHost" Collapsed="true">
+    <Position X="19.75" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Pei\Pei V2\Utility\SPEvent.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
